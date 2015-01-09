@@ -12,6 +12,28 @@ Demo URI: 		http://demo.fuviz.com/reen
 #mapbox {
 	height: 530px;
 }
+
+#pinned, #recent-activity {
+	background-color: white;
+	padding: 12px;
+}
+
+#recent-activity h5{
+	margin-bottom: 0px;
+}
+
+#recent-activity .info{
+	margin-bottom: 10px;
+}
+
+.recent-by {
+	font-size: 12px; 
+	line-height: 15px;
+}
+
+.info > h5 {
+	padding-bottom: 0;
+}
 /*===================================================================================*/
 /*	GENERAL
 /*===================================================================================*/
